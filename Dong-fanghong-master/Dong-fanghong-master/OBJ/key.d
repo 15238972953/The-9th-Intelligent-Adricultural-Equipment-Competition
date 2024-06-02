@@ -1,0 +1,64 @@
+..\obj\key.o: ..\HARDWARE\key\key.c
+..\obj\key.o: ..\HARDWARE\key\key.h
+..\obj\key.o: ..\SYSTEM\sys\sys.h
+..\obj\key.o: ..\USER\stm32f4xx.h
+..\obj\key.o: ..\CORE\core_cm4.h
+..\obj\key.o: D:\keil\new install\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\key.o: ..\CORE\core_cmInstr.h
+..\obj\key.o: ..\CORE\core_cmFunc.h
+..\obj\key.o: ..\CORE\core_cm4_simd.h
+..\obj\key.o: ..\USER\system_stm32f4xx.h
+..\obj\key.o: ..\USER\stm32f4xx_conf.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_adc.h
+..\obj\key.o: ..\USER\stm32f4xx.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_crc.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_dbgmcu.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_dma.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_exti.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_flash.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_gpio.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_i2c.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_iwdg.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_pwr.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_rcc.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_rtc.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_sdio.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_spi.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_syscfg.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_tim.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_usart.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_wwdg.h
+..\obj\key.o: ..\FWLIB\inc\misc.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_cryp.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_hash.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_rng.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_can.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_dac.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_dcmi.h
+..\obj\key.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
+..\obj\key.o: ..\SYSTEM\delay\delay.h
+..\obj\key.o: ..\variable\variable.h
+..\obj\key.o: ..\HARDWARE\LED\led.h
+..\obj\key.o: ..\HARDWARE\switch\switch.h
+..\obj\key.o: ..\HARDWARE\motor\motor.h
+..\obj\key.o: ..\HARDWARE\motor_pwm\M_pwm.h
+..\obj\key.o: ..\HARDWARE\encode\encode.h
+..\obj\key.o: ..\HARDWARE\servo\servo.h
+..\obj\key.o: ..\HARDWARE\beep\beep.h
+..\obj\key.o: ..\HARDWARE\oled\oled.h
+..\obj\key.o: D:\keil\new install\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\key.o: ..\HARDWARE\ultrasonic\ult.h
+..\obj\key.o: ..\HARDWARE\Time\timer.h
+..\obj\key.o: ..\HARDWARE\command\command.h
+..\obj\key.o: ..\HARDWARE\JY901\JY901.h
+..\obj\key.o: ..\HARDWARE\JY901\UART2.h
+..\obj\key.o: D:\keil\new install\ARM\ARMCC\Bin\..\include\string.h
+..\obj\key.o: D:\keil\new install\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\key.o: ..\HARDWARE\PID\bsp_pid.h
+..\obj\key.o: D:\keil\new install\ARM\ARMCC\Bin\..\include\math.h
+..\obj\key.o: ..\HARDWARE\FILTER\filter.h
+..\obj\key.o: ..\HARDWARE\JY901\UART1.h
+..\obj\key.o: ..\HARDWARE\dictionary\dictionary.h
+..\obj\key.o: ..\USER\main.h
+..\obj\key.o: ..\HARDWARE\USART3\UART3.h
+..\obj\key.o: ..\HARDWARE\USART4\UART4.h
